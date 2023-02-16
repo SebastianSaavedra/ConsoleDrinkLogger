@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDrinkLogger", "ConsoleDrinkLogger\ConsoleDrinkLogger.csproj", "{D12C8402-6C1F-4DAE-BD1C-EAB98EF978F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D12C8402-6C1F-4DAE-BD1C-EAB98EF978F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12C8402-6C1F-4DAE-BD1C-EAB98EF978F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12C8402-6C1F-4DAE-BD1C-EAB98EF978F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12C8402-6C1F-4DAE-BD1C-EAB98EF978F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0CDCC7B-4147-461F-A4A6-0F3F268E25C9}
+	EndGlobalSection
+EndGlobal
